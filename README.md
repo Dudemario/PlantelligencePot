@@ -1,2 +1,6 @@
 # PlantelligencePot
 Plantelligence is a smart pot that will monitor and care for your plants by automatically watering your them!
+
+As technology advances, many tasks in the world are being automated. Watering your flower pot can now be one of these tasks with Plantelligence. Using data picked up by a moisture sensor, Plantelligence knows exactly when your plant needs water and how much it needs. This way, you'll never have to worry about drowning your plant in water or giving your plant too little water. An automated system such as Plantelligence is also far more effective at completing a mundane task such as watering your plants than us since this type of system has no "human error" involved and will not "forget". Furthermore, Plantelligence will free up time on your agenda every day making your life easier and keep your plants happy during long trips away from home. Plantelligence can be customized to output a certain amount of water depending on the plant that is inside and can show you the moisture levels of the plant through an OLED display. Not only is your life made easier with the Plantelligence, but also the lives of your natural friends!
+
+Please see the attached file for the code and the link to our demo is here: https://youtu.be/IKoF2XRPB5I.
